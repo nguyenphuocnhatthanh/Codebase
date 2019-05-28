@@ -1,0 +1,370 @@
+{
+  "sub_categories": [
+    {
+      "name": "Baby Bags",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Backpacks",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Cosmetics Bags & case",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Crossbody Bags",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Hobos",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Laptop Bags",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Mini Bags",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Satchels",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Shoulder Bags",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Totes",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Travel Bags",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Clutches & Wristlers",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Wallets",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Briefcases",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Duggel Bags",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Luggage",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Messenger Bags",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Mini",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Midi",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Maxi",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "High Low",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Asymmetrical",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Long Sleeve",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "One Shoulder",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Strapless",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Backless",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Prom",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Wediing",
+      "gender": 2,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Casual",
+      "gender": 3,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Formal",
+      "gender": 3,
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Blazers",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Capes",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Jean Jackets",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Pea Coats",
+      "gender": "1,2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Puffers",
+      "gender": "1,2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Trench Coats",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Utility Jackets",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Vests",
+      "gender": "1,2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Raincoats",
+      "gender": "1,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Bomber",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Varsity",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Lightweight",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Shirt Jackets",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Military & Fileds",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Ski & Snowboarding",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Windbreaker",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Ankie & Cropped",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Boot Cut",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Boyfriend",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Flare & Wide Leg",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Overalls",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Skinny",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Straight Leg",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Relaxed",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Straight",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Slim Straight",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Slim",
+      "gender": "1,2",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Other",
+      "gender": "1,2,3",
+      "style": "",
+      "image": ""
+    },
+    {
+      "name": "Snickers",
+      "gender": "1,2,3",
+      "style": "xx",
+      "image": "xx.jog"
+    },
+    {
+      "name": "Mocassino",
+      "gender": "1,2,3",
+      "style": "xx",
+      "image": "xx.jog"
+    },
+    {
+      "name": "HandBags",
+      "gender": "2,3",
+      "style": "",
+      "image": ""
+    }
+  ]
+}

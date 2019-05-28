@@ -1,0 +1,1049 @@
+{
+  "sub_categories": [
+    {
+      "name": "Baby Bags",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Backpacks",
+      "gender": "1, 2",
+      "accessory_id": 1
+    },
+    {
+      "name": "Briefcases",
+      "gender": 1,
+      "accessory_id": 1
+    },
+    {
+      "name": "Clutches & Wristlers",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Cosmetics Bags & case",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Crossbody Bags",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Duggel Bags",
+      "gender": 1,
+      "accessory_id": 1
+    },
+    {
+      "name": "Hobos",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Laptop Bags",
+      "gender": "1, 2",
+      "accessory_id": 1
+    },
+    {
+      "name": "Luggage",
+      "gender": 1,
+      "accessory_id": 1
+    },
+    {
+      "name": "Messenger Bags",
+      "gender": 1,
+      "accessory_id": 1
+    },
+    {
+      "name": "Mini Bags",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Satchels",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Shoulder Bags",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Totes",
+      "gender": 2,
+      "accessory_id": 1
+    },
+    {
+      "name": "Travel Bags",
+      "gender": "1, 2",
+      "accessory_id": 1
+    },
+    {
+      "name": "Wallets",
+      "gender": "1, 2",
+      "accessory_id": 1
+    },
+    {
+      "name": "Asymmetrical",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Backless",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Casual",
+      "gender": 3,
+      "accessory_id": 2
+    },
+    {
+      "name": "Formal",
+      "gender": 3,
+      "accessory_id": 2
+    },
+    {
+      "name": "High Low",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Long Sleeve",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Maxi",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Midi",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Mini",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "One Shoulder",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Prom",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Strapless",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Wediing",
+      "gender": 2,
+      "accessory_id": 2
+    },
+    {
+      "name": "Blazers",
+      "gender": "2, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Bomber",
+      "gender": "1, 2",
+      "accessory_id": 3
+    },
+    {
+      "name": "Capes",
+      "gender": "2, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Jean Jackets",
+      "gender": "2, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Lightweight",
+      "gender": 1,
+      "accessory_id": 3
+    },
+    {
+      "name": "Military & Fileds",
+      "gender": 1,
+      "accessory_id": 3
+    },
+    {
+      "name": "Other",
+      "gender": "1,2,3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Pea Coats",
+      "gender": "1, 2, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Puffers",
+      "gender": "1, 2, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Raincoats",
+      "gender": "1, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Shirt Jackets",
+      "gender": 1,
+      "accessory_id": 3
+    },
+    {
+      "name": "Ski & Snowboarding",
+      "gender": "1, 2",
+      "accessory_id": 3
+    },
+    {
+      "name": "Trench Coats",
+      "gender": "1, 2",
+      "accessory_id": 3
+    },
+    {
+      "name": "Utility Jackets",
+      "gender": 2,
+      "accessory_id": 3
+    },
+    {
+      "name": "Varsity",
+      "gender": 1,
+      "accessory_id": 3
+    },
+    {
+      "name": "Vests",
+      "gender": "1, 2, 3",
+      "accessory_id": 3
+    },
+    {
+      "name": "Windbreaker",
+      "gender": 1,
+      "accessory_id": 3
+    },
+    {
+      "name": "Ankie & Cropped",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Boot Cut & flare",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Capris",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Cargo",
+      "gender": 1,
+      "accessory_id": 6
+    },
+    {
+      "name": "Chinos & Khakis",
+      "gender": 1,
+      "accessory_id": 6
+    },
+    {
+      "name": "Corduroy",
+      "gender": 1,
+      "accessory_id": 6
+    },
+    {
+      "name": "Dress",
+      "gender": 1,
+      "accessory_id": 6
+    },
+    {
+      "name": "Jumsuits & Rompers",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Leggings",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Other",
+      "gender": 1,
+      "accessory_id": 6
+    },
+    {
+      "name": "Skinny",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Straight Leg",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Sweatpants & Jogger",
+      "gender": 1,
+      "accessory_id": 6
+    },
+    {
+      "name": "Track Pants & Joggers",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Trousers",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Wide Leg",
+      "gender": 2,
+      "accessory_id": 6
+    },
+    {
+      "name": "Ankie & Cropped",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Ankle Boots & Booties",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Athletic Shoes",
+      "gender": "1,2",
+      "accessory_id": 7
+    },
+    {
+      "name": "Baby & Walker",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Boat Shoes",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Boot Cut",
+      "gender": "1, 2",
+      "accessory_id": 7
+    },
+    {
+      "name": "Boots",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Boots",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Boyfriend",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Chukka Boots",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Combat & Moto Boots",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Cowboy & Western Boots",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Dress Shoes",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Espadrilles",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Flare & Wide Leg",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Flats & Loafers",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Heeled Boots",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Heels",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Lace Up Boots",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Loafers & Slip-Ons",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Mocassins",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Mocassins",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Mules & Clogs",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Other",
+      "gender": "1, 2, 3",
+      "accessory_id": 7
+    },
+    {
+      "name": "Over the Knee Boots",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Overalls",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Oxfords & Derbys",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Platforms",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Rain & Snow Boots",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Rain & Snow Boots",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Relaxed",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Sandals",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Sandals & Flip Flops",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Sandals & Flip Flops",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Skinny",
+      "gender": "1, 2",
+      "accessory_id": 7
+    },
+    {
+      "name": "Slim",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Slim Straight",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Slippers",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Sloppers",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Sneakers",
+      "gender": "1,2",
+      "accessory_id": 7
+    },
+    {
+      "name": "Sneakers",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Straight",
+      "gender": 1,
+      "accessory_id": 7
+    },
+    {
+      "name": "Straight Leg",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Water Shoes",
+      "gender": 3,
+      "accessory_id": 7
+    },
+    {
+      "name": "Wedges",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Winter & Rain Boots",
+      "gender": 2,
+      "accessory_id": 7
+    },
+    {
+      "name": "Athletic",
+      "gender": 1,
+      "accessory_id": 8
+    },
+    {
+      "name": "Bermuda",
+      "gender": 2,
+      "accessory_id": 8
+    },
+    {
+      "name": "Cargos",
+      "gender": "1,2",
+      "accessory_id": 8
+    },
+    {
+      "name": "Flat Front",
+      "gender": 1,
+      "accessory_id": 8
+    },
+    {
+      "name": "Hybrids",
+      "gender": 1,
+      "accessory_id": 8
+    },
+    {
+      "name": "Jean Shorts",
+      "gender": "1,2",
+      "accessory_id": 8
+    },
+    {
+      "name": "other",
+      "gender": "1,2",
+      "accessory_id": 8
+    },
+    {
+      "name": "Skorts",
+      "gender": 2,
+      "accessory_id": 8
+    },
+    {
+      "name": "A-line or Full",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Asymmetrical",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Circle & Skater",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "HandBags",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "High Low",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Maxi",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Midi",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Mini",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Mocassino",
+      "gender": "1, 2, 3",
+      "accessory_id": 9
+    },
+    {
+      "name": "Other",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Pencil",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Skirt Sets",
+      "gender": 2,
+      "accessory_id": 9
+    },
+    {
+      "name": "Snickers",
+      "gender": "1, 2, 3",
+      "accessory_id": 9
+    },
+    {
+      "name": "Cardigans",
+      "gender": 2,
+      "accessory_id": 10
+    },
+    {
+      "name": "Cardigans",
+      "gender": 1,
+      "accessory_id": 10
+    },
+    {
+      "name": "Cowl & Turtlenecks",
+      "gender": 2,
+      "accessory_id": 10
+    },
+    {
+      "name": "Crew & Scoop Necks",
+      "gender": 2,
+      "accessory_id": 10
+    },
+    {
+      "name": "Crewneck",
+      "gender": 1,
+      "accessory_id": 10
+    },
+    {
+      "name": "Other",
+      "gender": 1,
+      "accessory_id": 10
+    },
+    {
+      "name": "Shrugs & Ponchos",
+      "gender": 2,
+      "accessory_id": 10
+    },
+    {
+      "name": "Turtleneck",
+      "gender": 1,
+      "accessory_id": 10
+    },
+    {
+      "name": "V-Neck",
+      "gender": 1,
+      "accessory_id": 10
+    },
+    {
+      "name": "V-Necks",
+      "gender": 2,
+      "accessory_id": 10
+    },
+    {
+      "name": "Zip Up",
+      "gender": 1,
+      "accessory_id": 10
+    },
+    {
+      "name": "Bikinis",
+      "gender": "2,3",
+      "accessory_id": 11
+    },
+    {
+      "name": "Board Shorts",
+      "gender": 1,
+      "accessory_id": 11
+    },
+    {
+      "name": "Coverups",
+      "gender": "2,3",
+      "accessory_id": 11
+    },
+    {
+      "name": "Hybrids",
+      "gender": 1,
+      "accessory_id": 11
+    },
+    {
+      "name": "One pieces",
+      "gender": "2,3",
+      "accessory_id": 11
+    },
+    {
+      "name": "Other",
+      "gender": "1,2,3",
+      "accessory_id": 11
+    },
+    {
+      "name": "Other",
+      "gender": 1,
+      "accessory_id": 11
+    },
+    {
+      "name": "Rash Guards",
+      "gender": 1,
+      "accessory_id": 11
+    },
+    {
+      "name": "Rashguards",
+      "gender": 3,
+      "accessory_id": 11
+    },
+    {
+      "name": "Sarongs",
+      "gender": 2,
+      "accessory_id": 11
+    },
+    {
+      "name": "Swim Trunks",
+      "gender": 3,
+      "accessory_id": 11
+    },
+    {
+      "name": "Swim Trunks",
+      "gender": 1,
+      "accessory_id": 11
+    },
+    {
+      "name": "Blouses",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Button Down Shirts",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Camisoles",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Crop Tops",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Muscle Tees",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Other",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Sweatshirts & Hoodies",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Tank Tops",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Tees - Long Sleeve",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Tees - Short Sleeve",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Tunics",
+      "gender": 2,
+      "accessory_id": 12
+    },
+    {
+      "name": "Blouses",
+      "gender": 3,
+      "accessory_id": 14
+    },
+    {
+      "name": "Button Down Shirts",
+      "gender": 3,
+      "accessory_id": 14
+    },
+    {
+      "name": "Camisoles",
+      "gender": 3,
+      "accessory_id": 14
+    },
+    {
+      "name": "Casual Button Down Shirt",
+      "gender": 1,
+      "accessory_id": 14
+    },
+    {
+      "name": "Dress Shirt",
+      "gender": 1,
+      "accessory_id": 14
+    },
+    {
+      "name": "Other",
+      "gender": "1,3",
+      "accessory_id": 14
+    },
+    {
+      "name": "Polos",
+      "gender": "1,3",
+      "accessory_id": 14
+    },
+    {
+      "name": "Sweaters",
+      "gender": 3,
+      "accessory_id": 14
+    },
+    {
+      "name": "Sweatshirts & Hoodies",
+      "gender": "1,3",
+      "accessory_id": 14
+    },
+    {
+      "name": "Tanks Tops",
+      "gender": "1,3",
+      "accessory_id": 14
+    },
+    {
+      "name": "Tees - Long Sleeve",
+      "gender": "1,3",
+      "accessory_id": 14
+    },
+    {
+      "name": "Tees - Short Sleeve",
+      "gender": "1,3",
+      "accessory_id": 14
+    },
+    {
+      "name": "Other",
+      "gender": 1,
+      "accessory_id": 15
+    },
+    {
+      "name": "Suits",
+      "gender": 1,
+      "accessory_id": 15
+    },
+    {
+      "name": "Tuxedos",
+      "gender": 1,
+      "accessory_id": 15
+    },
+    {
+      "name": "Other",
+      "gender": 1,
+      "accessory_id": 16
+    },
+    {
+      "name": "Sport Coats & Blazers",
+      "gender": 1,
+      "accessory_id": 16
+    },
+    {
+      "name": "Vests",
+      "gender": 1,
+      "accessory_id": 16
+    },
+    {
+      "name": "Casual",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Formal",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Jeans",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Jumpsuits & Rompers",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Leggings",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Other",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Overalls",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Shorts",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Skirts",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Skorts",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Sweatpants & Jogger",
+      "gender": 3,
+      "accessory_id": 17
+    },
+    {
+      "name": "Bodusuits",
+      "gender": 3,
+      "accessory_id": 19
+    },
+    {
+      "name": "Footies",
+      "gender": 3,
+      "accessory_id": 19
+    },
+    {
+      "name": "other",
+      "gender": 3,
+      "accessory_id": 19
+    },
+    {
+      "name": "Nightgowns",
+      "gender": 3,
+      "accessory_id": 20
+    },
+    {
+      "name": "Other",
+      "gender": "1,2,3",
+      "accessory_id": 20
+    },
+    {
+      "name": "Pajamas Bottoms",
+      "gender": 3,
+      "accessory_id": 20
+    },
+    {
+      "name": "Pajamas Sets",
+      "gender": 3,
+      "accessory_id": 20
+    },
+    {
+      "name": "Pajamas Tops",
+      "gender": 3,
+      "accessory_id": 20
+    },
+    {
+      "name": "Robes",
+      "gender": 3,
+      "accessory_id": 20
+    },
+    {
+      "name": "Sleep Sacks",
+      "gender": 3,
+      "accessory_id": 20
+    },
+    {
+      "name": "Dance",
+      "gender": 3,
+      "accessory_id": 21
+    },
+    {
+      "name": "Hallowen",
+      "gender": 3,
+      "accessory_id": 21
+    },
+    {
+      "name": "Other",
+      "gender": 3,
+      "accessory_id": 21
+    },
+    {
+      "name": "Seasonal",
+      "gender": 3,
+      "accessory_id": 21
+    },
+    {
+      "name": "Superhero",
+      "gender": 3,
+      "accessory_id": 21
+    },
+    {
+      "name": "Theater",
+      "gender": 3,
+      "accessory_id": 21
+    }
+  ]
+}
